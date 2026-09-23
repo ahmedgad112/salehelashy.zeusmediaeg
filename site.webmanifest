@@ -1,0 +1,20 @@
+{
+  "name": "صالح العيشي",
+  "short_name": "صالح العيشي",
+  "description": "صالح العيشي للدهانات والديكورات والتشطيبات الداخلية",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#151515",
+  "icons": [
+    {
+      "src": "images/1.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://salehelashy.zeusmediaeg.com/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://salehelashy.zeusmediaeg.com/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://salehelashy.zeusmediaeg.com/" />
+    <image:image>
+      <image:loc>https://salehelashy.zeusmediaeg.com/images/1.jpg</image:loc>
+      <image:title>أعمال صالح العيشي للديكورات والتشطيبات</image:title>
+      <image:caption>تصميم وتشطيب داخلي من أعمال صالح العيشي</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://salehelashy.zeusmediaeg.com/images/2.jpg</image:loc>
+      <image:title>ديكورات صالح العيشي</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://salehelashy.zeusmediaeg.com/images/4.jpg</image:loc>
+      <image:title>تشطيبات داخلية - صالح العيشي</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://salehelashy.zeusmediaeg.com/images/7.jpg</image:loc>
+      <image:title>تصميم داخلي فاخر - صالح العيشي</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://salehelashy.zeusmediaeg.com/images/12.jpg</image:loc>
+      <image:title>مشروع ديكور من أعمال صالح العيشي</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://salehelashy.zeusmediaeg.com/images/17.jpg</image:loc>
+      <image:title>تشطيب وديكور داخلي - صالح العيشي</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://salehelashy.zeusmediaeg.com/images/24.jpg</image:loc>
+      <image:title>أعمال تشطيبات صالح العيشي</image:title>
+    </image:image>
+  </url>
+</urlset>

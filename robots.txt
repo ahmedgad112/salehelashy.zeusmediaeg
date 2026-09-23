@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://salehelashy.zeusmediaeg.com/sitemap.xml

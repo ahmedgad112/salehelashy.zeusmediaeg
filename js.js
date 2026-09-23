@@ -97,7 +97,7 @@ document.addEventListener("DOMContentLoaded", () => {
             return {
                 number,
                 src: `images/${number}.jpg`,
-                alt: `مشروع ديكور رقم ${number}`
+                alt: `أعمال صالح العيشي للديكور والتشطيبات الداخلية - مشروع ${number}`
             };
 
         }
